@@ -1,0 +1,17 @@
+{
+    "name": "jrealm/dungeons-core",
+    "authors": [
+        {
+            "name": "jrealm",
+            "email": "jrealm@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "dungeons\\": "class/dungeons"
+        }
+    },
+    "require": {
+    }
+}
